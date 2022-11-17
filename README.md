@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://react-dogs.herokuapp.com/
+https://projeto-react-dogs.vercel.app/
 
 O site "Dogs" é uma rede social feita para cachorros, um projeto que fiz durante o módulo final do curso de React da Origamid. <br>
 Na rede social, após criar um cadastro você pode: <br>
